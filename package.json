@@ -1,0 +1,24 @@
+{
+  "name": "node.js-request-module",
+  "version": "1.0.0",
+  "description": "tutorials nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoSosaUV/Node.js-request-module.git"
+  },
+  "author": "Francisco Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoSosaUV/Node.js-request-module/issues"
+  },
+  "homepage": "https://github.com/FranciscoSosaUV/Node.js-request-module#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
